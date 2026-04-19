@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://goldin-oss.github.io/sitemap.xml
+Sitemap: https://hishnik-eng.github.io/sitemap.xml
